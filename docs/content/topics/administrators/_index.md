@@ -3,7 +3,7 @@ title: Administrators
 description: Brigade system administrators
 aliases:
   - /index.md
-  - /administrators
+  - /topics/administrators
   - /topics/administrators/index.md
 ---
 
@@ -22,5 +22,5 @@ strategies.
   * [Authorization]: Here we discuss setting authorization within Brigade,
     including creation and management of Service Accounts, Users and Roles
 
-[Authentication]: /authentication
-[Authorization]: /authorization
+[Authentication]: /topics/administrators/authentication
+[Authorization]: /topics/administrators/authorization

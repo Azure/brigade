@@ -3,7 +3,7 @@ title: Project Developers
 description: Brigade project developers
 aliases:
   - /index.md
-  - /project-developers
+  - /topics/roject-developers
   - /topics/project-developers/index.md
 ---
 
@@ -22,10 +22,10 @@ Brigade provides.
 
 Let's start off by creating [our first project][Projects].
 
-[Operators]: ../operators
-[Administrators]: ../administrators
-[Projects]: /projects
-[scripts]: ../scripting
-[Events]: /events
-[brigterm]: /brigterm
-[brig]: /brig
+[Operators]: /topics/operators
+[Administrators]: /topics/administrators
+[Projects]: /topics/project-developers/projects
+[scripts]: /topics/scripting
+[Events]: /topics/project-developers/events
+[brigterm]: /topics/project-developers/brigterm
+[brig]: /topics/project-developers/brig

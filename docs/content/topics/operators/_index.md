@@ -3,7 +3,7 @@ title: Operators
 description: Brigade system operators
 aliases:
   - /index.md
-  - /operators
+  - /topics/operators
   - /topics/operators/index.md
 ---
 
@@ -35,10 +35,10 @@ these systems may prove useful.
 
 Next, let's look at how to [deploy Brigade].
 
-[Administrator]: ../administrators
-[Project Developer]: ../project-developers
+[Administrator]: /topics/administrators
+[Project Developer]: /topics/project-developers
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
 [MongoDB]: https://www.mongodb.com/
 [ActiveMQ Artemis]: https://activemq.apache.org/components/artemis/
-[deploy Brigade]: /deploy.md
+[deploy Brigade]: /topics/operators/deploy
