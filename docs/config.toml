@@ -158,11 +158,6 @@ relativeURLs = "true"
     weight = 70
     parent = "scripting"
     [[menu.index]]
-    name = "Metrics"
-    url = "/topics/metrics/"
-    weight = 74
-    parent = "topics"
-    [[menu.index]]
     name = "Developer Guide"
     url = "/topics/developers/"
     weight = 75
