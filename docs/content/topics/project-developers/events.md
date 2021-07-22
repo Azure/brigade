@@ -2,7 +2,7 @@
 title: Events
 description: Handling Events in Brigade
 aliases:
-  - /events.md
+  - /events
   - /topics/events.md
   - /topics/project-developers/events.md
 ---

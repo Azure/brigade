@@ -2,7 +2,7 @@
 title: Projects
 description: How to manage Brigade Projects
 aliases:
-  - /projects.md
+  - /projects
   - /topics/projects.md
   - /topics/project-developers/projects.md
 ---
